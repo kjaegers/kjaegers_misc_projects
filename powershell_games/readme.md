@@ -1,0 +1,1 @@
+This repo is for storing my small projects not necessarially related to each other or anything else :)
